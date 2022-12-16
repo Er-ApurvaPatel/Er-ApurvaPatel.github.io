@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Portfolio</title>
+    <link>https://example.com/tag/machine-learning/</link>
+      <atom:link href="https://example.com/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_huc6a19bf380603824249faa84086efe14_375894_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning</title>
+      <link>https://example.com/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Image denoising Using CNN</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;p&gt;This project was a done in Gujarat Industrial hackathon conducted on march 21 2019. In this project, I have desined a machine learning model to improve the video quality of the surveillance camera at night.&lt;/p&gt;
+&lt;p&gt;I had used python programming language to implement the project.Moreover, I worked with computer vision libraries of python to implement a Convolution Neural Network (CNN). I trained the model by processing every frame of a video footage and then denoising it. This result in a clerified video which can be use by police in case of any emergency.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

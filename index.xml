@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Portfolio</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_huc6a19bf380603824249faa84086efe14_375894_512x512_fill_lanczos_center_3.png</url>
+      <title>Portfolio</title>
+      <link>https://example.com/</link>
+    </image>
+    
+    <item>
+      <title>Smart Attendence System using Sound waves</title>
+      <link>https://example.com/project/external-project/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/external-project/</guid>
+      <description>&lt;p&gt;This project was done as a part of my academic curriculum. The flow of project is as follows:&lt;/p&gt;
+&lt;p&gt;1)Teacher walks in the classroom and open mobile app. They can signed in by their teacher id.&lt;/p&gt;
+&lt;p&gt;2)Students can signed in the same application by using their student id.&lt;/p&gt;
+&lt;p&gt;3)Teacher will press a sound emmiting button in their smart phone which will emit sound waves that can be received by students smart phones. Once the sound waves is received then the attendence of student will be marked.&lt;/p&gt;
+&lt;p&gt;The technology included in the project are: Android studio for designing mobile app, java language for coding, MySQL database for storing student records, and RSA encryption algorithm for maintaining the confidentiality of students.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Image denoising Using CNN</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;p&gt;This project was a done in Gujarat Industrial hackathon conducted on march 21 2019. In this project, I have desined a machine learning model to improve the video quality of the surveillance camera at night.&lt;/p&gt;
+&lt;p&gt;I had used python programming language to implement the project.Moreover, I worked with computer vision libraries of python to implement a Convolution Neural Network (CNN). I trained the model by processing every frame of a video footage and then denoising it. This result in a clerified video which can be use by police in case of any emergency.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RFID-based smart mall</title>
+      <link>https://example.com/project/example1/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example1/</guid>
+      <description>&lt;p&gt;This project was a done in Gujarat Industrial hackathon conducted on 12 february 2018. This project was qualified into the final round of hackathon by competing among 500+ teams in hackathon. In this project, we planned to associate RFID tags to every products in the mall. The flow of system is as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;After the customer finished shoping, they will go to the billing counter.&lt;/li&gt;
+&lt;li&gt;There will be an RFID-based door in billing counter where the customer will pass through and all the items will get scanned automatically using RFID tags.&lt;/li&gt;
+&lt;li&gt;Then the overall cost of all items will be displayed and the customer just need to do the payment. Hence, reducing time in manual scanning of items.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The technologies use to develop this system are: Arduino UNO for making RFID scanner, C language for coding Arduino UNO, RFID chips, and MySQL database for storing customer records.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
