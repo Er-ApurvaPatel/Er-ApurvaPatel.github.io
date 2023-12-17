@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Development | Portfolio</title>
+    <link>https://example.com/tag/software-development/</link>
+      <atom:link href="https://example.com/tag/software-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software Development</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6312ba322a64f90c30c585f7b71eefb0_48379_512x512_fill_lanczos_center_3.png</url>
+      <title>Software Development</title>
+      <link>https://example.com/tag/software-development/</link>
+    </image>
+    
+    <item>
+      <title>Event Finder</title>
+      <link>https://example.com/project/example2/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example2/</guid>
+      <description>&lt;p&gt;Introducing &lt;a href=&#34;https://appuv2.wl.r.appspot.com/search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EventFinder&lt;/a&gt;, my web development project designed to streamline event discovery.&lt;/p&gt;
+&lt;h2 id=&#34;-key-features&#34;&gt;🎯 Key Features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Event Search:&lt;/strong&gt; Effortlessly find local concerts, sports events, and cultural festivals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Event Details:&lt;/strong&gt; Access comprehensive event information, including date, time, venue, and performers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Favorites List:&lt;/strong&gt; Curate a personalized favorites list to stay updated on must-attend events.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;API Integration:&lt;/strong&gt; Leveraging TicketMaster Discovery API for real-time event data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Artist Discovery:&lt;/strong&gt; Integrated Spotify API for exploring artists performing at events.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cross-Platform Accessibility:&lt;/strong&gt; Accessible on both web and Android platforms for user convenience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Explore &lt;a href=&#34;https://appuv2.wl.r.appspot.com/search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EventFinder&lt;/a&gt; now and discover a seamless way to stay informed about the latest events!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smart Attendence System using Sound waves</title>
+      <link>https://example.com/project/external-project/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/external-project/</guid>
+      <description>&lt;p&gt;This project was undertaken as part of my academic curriculum and involves a system for efficient classroom attendance management. The workflow is outlined below:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Teacher Sign-in:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The teacher starts by opening the mobile app and signing in using their unique teacher ID.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Student Sign-in:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Students can sign in to the same application using their designated student ID.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Attendance Marking:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The teacher initiates attendance by pressing a sound-emitting button on their smartphone.&lt;/li&gt;
+&lt;li&gt;The emitted sound waves are received by the students&amp;rsquo; smartphones, marking their attendance once received.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h2&gt;
+&lt;p&gt;The project incorporates the following technologies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Development Platform:&lt;/strong&gt; Android Studio&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programming Language:&lt;/strong&gt; Java&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Database Management:&lt;/strong&gt; MySQL (for storing student records)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security:&lt;/strong&gt; RSA Encryption Algorithm (to maintain the confidentiality of student data)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RFID-based smart mall</title>
+      <link>https://example.com/project/example1/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example1/</guid>
+      <description>&lt;p&gt;This project was accomplished during the Gujarat Industrial Hackathon held on February 12, 2018. It successfully qualified for the final round, surpassing 500+ participating teams. The objective of the project was to enhance the efficiency of the shopping experience by associating RFID tags with every product in the mall. The system&amp;rsquo;s workflow is outlined below:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Customer Checkout:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After completing their shopping, customers proceed to the billing counter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;RFID-Based Scanning:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The billing counter is equipped with an RFID-based door.&lt;/li&gt;
+&lt;li&gt;As customers pass through, all items are automatically scanned using RFID tags.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Automatic Billing:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The total cost of all scanned items is displayed, and customers can make the payment, reducing the time spent on manual scanning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h2&gt;
+&lt;p&gt;The technologies used in developing this system include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;RFID Scanner:&lt;/strong&gt; Arduino UNO&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programming Language:&lt;/strong&gt; C (for coding Arduino UNO)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;RFID Technology:&lt;/strong&gt; RFID Chips&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Database Management:&lt;/strong&gt; MySQL (for storing customer records)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

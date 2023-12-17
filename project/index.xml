@@ -5,23 +5,141 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_huc6a19bf380603824249faa84086efe14_375894_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu6312ba322a64f90c30c585f7b71eefb0_48379_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://example.com/project/</link>
     </image>
+    
+    <item>
+      <title>Martian Frost Detection Project</title>
+      <link>https://example.com/project/example4/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example4/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Utilized &lt;a href=&#34;https://dataverse.jpl.nasa.gov/dataset.xhtml?persistentId=doi:10.48577/jpl.QJ9PYA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JPL data&lt;/a&gt; to identify Martian surface frost. Trained a CNN model with EfficientNetB0, ResNet50, and VGG16 using transfer learning. Achieved a 91% accuracy with EfficientNetB0.&lt;/p&gt;
+&lt;h2 id=&#34;key-steps&#34;&gt;Key Steps&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data Processing:&lt;/strong&gt; Preprocessed JPL data, adjusting for lighting and normalizing sizes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CNN Training:&lt;/strong&gt; Developed a CNN model for automatic frost identification, employing data augmentation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Transfer Learning:&lt;/strong&gt; Fine-tuned EfficientNetB0, ResNet50, and VGG16 on Martian frost dataset.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Optimization:&lt;/strong&gt; Achieved 91% accuracy with EfficientNetB0 through hyperparameter tuning.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Performance Evaluation:&lt;/strong&gt; Evaluated models on a test set, analyzing metrics such as precision, recall and F1-score.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Deployment:&lt;/strong&gt; Deployed EfficientNetB0 model for real-time Martian frost detection.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;outcome&#34;&gt;Outcome&lt;/h2&gt;
+&lt;p&gt;Successful application of ML techniques to JPL data, enhancing understanding of Martian surface conditions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Er-ApurvaPatel/MLDS-materials/blob/main/Project/notebook/Patel_Apurva_Project.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Elite Game</title>
+      <link>https://example.com/project/example3/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example3/</guid>
+      <description>&lt;p&gt;As the team leader, I&amp;rsquo;m excited to showcase our latest game project, &lt;a href=&#34;https://shrey82.github.io/game-finals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;The Elite Game,&amp;rdquo;&lt;/a&gt; developed using C# and Unity. This 2D platformer game promises an engaging and challenging gaming experience.&lt;/p&gt;
+&lt;h2 id=&#34;game-highlights&#34;&gt;Game Highlights&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2D Platformer:&lt;/strong&gt; &amp;ldquo;The Elite Game&amp;rdquo; is a 2D platformer that seamlessly blends precision jumping with strategic thinking.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;10 Levels to Conquer:&lt;/strong&gt; Players embark on a thrilling journey through 10 progressively challenging levels, each presenting a unique set of obstacles and puzzles to solve.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Strategic Gameplay:&lt;/strong&gt; Success in &amp;ldquo;The Elite Game&amp;rdquo; relies on quick thinking. Green and blue timers constantly change, indicating the safety of platforms. Players must calculate jumps and make decisions based on timer colors and available safe paths.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Rewarding Progression:&lt;/strong&gt; As players advance, they unlock new abilities and power-ups, adding depth to the gameplay and enabling creative approaches to level completion.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Immersive Visuals and Sound:&lt;/strong&gt; The game features captivating 2D graphics and an immersive sound design, enhancing the overall gaming experience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Explore the game &lt;a href=&#34;https://shrey82.github.io/game-finals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and immerse yourself in the world of &amp;ldquo;The Elite Game&amp;rdquo;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Event Finder</title>
+      <link>https://example.com/project/example2/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example2/</guid>
+      <description>&lt;p&gt;Introducing &lt;a href=&#34;https://appuv2.wl.r.appspot.com/search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EventFinder&lt;/a&gt;, my web development project designed to streamline event discovery.&lt;/p&gt;
+&lt;h2 id=&#34;-key-features&#34;&gt;🎯 Key Features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Event Search:&lt;/strong&gt; Effortlessly find local concerts, sports events, and cultural festivals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Event Details:&lt;/strong&gt; Access comprehensive event information, including date, time, venue, and performers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Favorites List:&lt;/strong&gt; Curate a personalized favorites list to stay updated on must-attend events.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;API Integration:&lt;/strong&gt; Leveraging TicketMaster Discovery API for real-time event data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Artist Discovery:&lt;/strong&gt; Integrated Spotify API for exploring artists performing at events.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cross-Platform Accessibility:&lt;/strong&gt; Accessible on both web and Android platforms for user convenience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Explore &lt;a href=&#34;https://appuv2.wl.r.appspot.com/search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EventFinder&lt;/a&gt; now and discover a seamless way to stay informed about the latest events!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Smart Attendence System using Sound waves</title>
       <link>https://example.com/project/external-project/</link>
       <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/external-project/</guid>
-      <description>&lt;p&gt;This project was done as a part of my academic curriculum. The flow of project is as follows:&lt;/p&gt;
-&lt;p&gt;1)Teacher walks in the classroom and open mobile app. They can signed in by their teacher id.&lt;/p&gt;
-&lt;p&gt;2)Students can signed in the same application by using their student id.&lt;/p&gt;
-&lt;p&gt;3)Teacher will press a sound emmiting button in their smart phone which will emit sound waves that can be received by students smart phones. Once the sound waves is received then the attendence of student will be marked.&lt;/p&gt;
-&lt;p&gt;The technology included in the project are: Android studio for designing mobile app, java language for coding, MySQL database for storing student records, and RSA encryption algorithm for maintaining the confidentiality of students.&lt;/p&gt;
+      <description>&lt;p&gt;This project was undertaken as part of my academic curriculum and involves a system for efficient classroom attendance management. The workflow is outlined below:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Teacher Sign-in:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The teacher starts by opening the mobile app and signing in using their unique teacher ID.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Student Sign-in:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Students can sign in to the same application using their designated student ID.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Attendance Marking:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The teacher initiates attendance by pressing a sound-emitting button on their smartphone.&lt;/li&gt;
+&lt;li&gt;The emitted sound waves are received by the students&amp;rsquo; smartphones, marking their attendance once received.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h2&gt;
+&lt;p&gt;The project incorporates the following technologies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Development Platform:&lt;/strong&gt; Android Studio&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programming Language:&lt;/strong&gt; Java&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Database Management:&lt;/strong&gt; MySQL (for storing student records)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security:&lt;/strong&gt; RSA Encryption Algorithm (to maintain the confidentiality of student data)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -30,8 +148,41 @@
       <link>https://example.com/project/example/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;This project was a done in Gujarat Industrial hackathon conducted on march 21 2019. In this project, I have desined a machine learning model to improve the video quality of the surveillance camera at night.&lt;/p&gt;
-&lt;p&gt;I had used python programming language to implement the project.Moreover, I worked with computer vision libraries of python to implement a Convolution Neural Network (CNN). I trained the model by processing every frame of a video footage and then denoising it. This result in a clerified video which can be use by police in case of any emergency.&lt;/p&gt;
+      <description>&lt;p&gt;This project was undertaken during the Gujarat Industrial Hackathon conducted on March 21, 2019. The primary focus was on enhancing the video quality of surveillance cameras at night through the implementation of a machine learning model. The project details are as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing a machine learning model to improve the video quality captured by surveillance cameras during nighttime.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Implementation:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Utilized the Python programming language for project implementation.&lt;/li&gt;
+&lt;li&gt;Worked with computer vision libraries in Python to develop a Convolutional Neural Network (CNN).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Training Process:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Trained the model by processing each frame of a video footage and implementing denoising techniques.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Outcome:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Produced a clarified video output, enhancing visibility, particularly useful for emergency situations and law enforcement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h2&gt;
+&lt;p&gt;The technologies employed in this project include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Programming Language:&lt;/strong&gt; Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine Learning Model:&lt;/strong&gt; Convolutional Neural Network (CNN)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Computer Vision Libraries:&lt;/strong&gt; OpenCV, NumPy, Matplotlib, SciPy.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -40,13 +191,36 @@
       <link>https://example.com/project/example1/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/example1/</guid>
-      <description>&lt;p&gt;This project was a done in Gujarat Industrial hackathon conducted on 12 february 2018. This project was qualified into the final round of hackathon by competing among 500+ teams in hackathon. In this project, we planned to associate RFID tags to every products in the mall. The flow of system is as follows:&lt;/p&gt;
+      <description>&lt;p&gt;This project was accomplished during the Gujarat Industrial Hackathon held on February 12, 2018. It successfully qualified for the final round, surpassing 500+ participating teams. The objective of the project was to enhance the efficiency of the shopping experience by associating RFID tags with every product in the mall. The system&amp;rsquo;s workflow is outlined below:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;After the customer finished shoping, they will go to the billing counter.&lt;/li&gt;
-&lt;li&gt;There will be an RFID-based door in billing counter where the customer will pass through and all the items will get scanned automatically using RFID tags.&lt;/li&gt;
-&lt;li&gt;Then the overall cost of all items will be displayed and the customer just need to do the payment. Hence, reducing time in manual scanning of items.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Customer Checkout:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After completing their shopping, customers proceed to the billing counter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;RFID-Based Scanning:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The billing counter is equipped with an RFID-based door.&lt;/li&gt;
+&lt;li&gt;As customers pass through, all items are automatically scanned using RFID tags.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Automatic Billing:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The total cost of all scanned items is displayed, and customers can make the payment, reducing the time spent on manual scanning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;The technologies use to develop this system are: Arduino UNO for making RFID scanner, C language for coding Arduino UNO, RFID chips, and MySQL database for storing customer records.&lt;/p&gt;
+&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h2&gt;
+&lt;p&gt;The technologies used in developing this system include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;RFID Scanner:&lt;/strong&gt; Arduino UNO&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programming Language:&lt;/strong&gt; C (for coding Arduino UNO)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;RFID Technology:&lt;/strong&gt; RFID Chips&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Database Management:&lt;/strong&gt; MySQL (for storing customer records)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

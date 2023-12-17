@@ -5,20 +5,87 @@
     <link>https://example.com/tag/machine-learning/</link>
       <atom:link href="https://example.com/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_huc6a19bf380603824249faa84086efe14_375894_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu6312ba322a64f90c30c585f7b71eefb0_48379_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning</title>
       <link>https://example.com/tag/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Martian Frost Detection Project</title>
+      <link>https://example.com/project/example4/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example4/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Utilized &lt;a href=&#34;https://dataverse.jpl.nasa.gov/dataset.xhtml?persistentId=doi:10.48577/jpl.QJ9PYA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JPL data&lt;/a&gt; to identify Martian surface frost. Trained a CNN model with EfficientNetB0, ResNet50, and VGG16 using transfer learning. Achieved a 91% accuracy with EfficientNetB0.&lt;/p&gt;
+&lt;h2 id=&#34;key-steps&#34;&gt;Key Steps&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data Processing:&lt;/strong&gt; Preprocessed JPL data, adjusting for lighting and normalizing sizes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CNN Training:&lt;/strong&gt; Developed a CNN model for automatic frost identification, employing data augmentation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Transfer Learning:&lt;/strong&gt; Fine-tuned EfficientNetB0, ResNet50, and VGG16 on Martian frost dataset.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Optimization:&lt;/strong&gt; Achieved 91% accuracy with EfficientNetB0 through hyperparameter tuning.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Performance Evaluation:&lt;/strong&gt; Evaluated models on a test set, analyzing metrics such as precision, recall and F1-score.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Deployment:&lt;/strong&gt; Deployed EfficientNetB0 model for real-time Martian frost detection.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;outcome&#34;&gt;Outcome&lt;/h2&gt;
+&lt;p&gt;Successful application of ML techniques to JPL data, enhancing understanding of Martian surface conditions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Er-ApurvaPatel/MLDS-materials/blob/main/Project/notebook/Patel_Apurva_Project.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Image denoising Using CNN</title>
       <link>https://example.com/project/example/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;This project was a done in Gujarat Industrial hackathon conducted on march 21 2019. In this project, I have desined a machine learning model to improve the video quality of the surveillance camera at night.&lt;/p&gt;
-&lt;p&gt;I had used python programming language to implement the project.Moreover, I worked with computer vision libraries of python to implement a Convolution Neural Network (CNN). I trained the model by processing every frame of a video footage and then denoising it. This result in a clerified video which can be use by police in case of any emergency.&lt;/p&gt;
+      <description>&lt;p&gt;This project was undertaken during the Gujarat Industrial Hackathon conducted on March 21, 2019. The primary focus was on enhancing the video quality of surveillance cameras at night through the implementation of a machine learning model. The project details are as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing a machine learning model to improve the video quality captured by surveillance cameras during nighttime.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Implementation:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Utilized the Python programming language for project implementation.&lt;/li&gt;
+&lt;li&gt;Worked with computer vision libraries in Python to develop a Convolutional Neural Network (CNN).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Training Process:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Trained the model by processing each frame of a video footage and implementing denoising techniques.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Outcome:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Produced a clarified video output, enhancing visibility, particularly useful for emergency situations and law enforcement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h2&gt;
+&lt;p&gt;The technologies employed in this project include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Programming Language:&lt;/strong&gt; Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine Learning Model:&lt;/strong&gt; Convolutional Neural Network (CNN)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Computer Vision Libraries:&lt;/strong&gt; OpenCV, NumPy, Matplotlib, SciPy.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
